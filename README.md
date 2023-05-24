@@ -1,4 +1,4 @@
-=== Projeto Spring com React ===
+=== Projeto Spring com React para Autenticação do JWT Token ===
 
 - Para logar, usuário tem que ser adicionado manualmente pelo MySQL.
 
